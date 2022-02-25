@@ -1,10 +1,16 @@
-# Microsoft EdgeDriver
+# Microsoft Edge WebDriver
 
-Welcome to the Microsoft EdgeDriver repository.
+Welcome to the Microsoft Edge WebDriver repository.
 
-This is a place for all users of EdgeDriver to send ideas, feedback, suggestions, bugs, but also ask questions and have discussions about EdgeDriver.
+This is a place for all users of [Microsoft Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) to send ideas, feedback, suggestions, bugs, and also ask questions or have discussions.
 
 You can [open a new issue](https://github.com/MicrosoftEdge/EdgeDriver/issues/new/choose) and [search for existing issues](https://github.com/MicrosoftEdge/EdgeDriver/issues).
+
+## Resources
+
+- [Microsoft Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+- [Documentation](https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium)
+- [Selenium](https://www.selenium.dev/)
 
 ## Code of Conduct
 
