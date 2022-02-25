@@ -8,9 +8,17 @@ You can [open a new issue](https://github.com/MicrosoftEdge/EdgeDriver/issues/ne
 
 ## Resources
 
-- [Microsoft Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
-- [Documentation](https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium)
-- [Selenium](https://www.selenium.dev/)
+### Links & documentation
+- [Microsoft Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Download official driver binaries for Microsoft Edge.
+- [Documentation](https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium) - Learn how to write automated tests for Microsoft Edge using WebDriver.
+
+### Tools & Frameworks
+- [Selenium](https://www.selenium.dev/) - A browser automation framework and ecosystem.
+- [WebdriverIO](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js.
+
+### Specifications
+- [WebDriver](https://w3c.github.io/webdriver/)
+- [WebDriver BiDi](https://w3c.github.io/webdriver-bidi)
 
 ## Code of Conduct
 
