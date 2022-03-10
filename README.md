@@ -4,13 +4,12 @@ Welcome to the Microsoft Edge WebDriver repository.
 
 This is a place for all users of [Microsoft Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) to send ideas, feedback, suggestions, bugs, and also ask questions or have discussions.
 
-You can [open a new issue](https://github.com/MicrosoftEdge/EdgeDriver/issues/new/choose) and [search for existing issues](https://github.com/MicrosoftEdge/EdgeDriver/issues).
+* 📢 [Open a new issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/new/choose)
+* 🔎 [Search for existing issues](https://github.com/MicrosoftEdge/EdgeWebDriver/issues)
+* 📗 [Learn how to write automated tests for Microsoft Edge using WebDriver](https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium)
+* 💾 [Download driver binaries for Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 
 ## Resources
-
-### Links & documentation
-- [Microsoft Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Download official driver binaries for Microsoft Edge.
-- [Documentation](https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium) - Learn how to write automated tests for Microsoft Edge using WebDriver.
 
 ### Tools & Frameworks
 - [Selenium](https://www.selenium.dev/) - A browser automation framework and ecosystem.
