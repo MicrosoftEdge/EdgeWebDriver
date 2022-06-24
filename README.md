@@ -2,7 +2,7 @@
 
 Welcome to the Microsoft Edge WebDriver repository.
 
-This is a place for all users of [Microsoft Edge Driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) to send ideas, feedback, suggestions, bugs, and also ask questions or have discussions.
+This is a place for all users of [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) to send ideas, feedback, suggestions, bugs, and also ask questions or have discussions.
 
 * 📢 [Open a new issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/new/choose)
 * 🔎 [Search for existing issues](https://github.com/MicrosoftEdge/EdgeWebDriver/issues)
