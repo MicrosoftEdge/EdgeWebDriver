@@ -2,12 +2,12 @@
 
 Welcome to the Microsoft Edge WebDriver repository.
 
-This is a place for all users of [Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) to send ideas, feedback, suggestions, bugs, and also ask questions or have discussions.
+This is a place for all users of [Microsoft Edge WebDriver](https://developer.microsoft.com/microsoft-edge/tools/webdriver/) to send ideas, feedback, suggestions, bugs, and also ask questions or have discussions.
 
 * 📢 [Open a new issue](https://github.com/MicrosoftEdge/EdgeWebDriver/issues/new/choose)
 * 🔎 [Search for existing issues](https://github.com/MicrosoftEdge/EdgeWebDriver/issues)
-* 📗 [Learn how to write automated tests for Microsoft Edge using WebDriver](https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium)
-* 💾 [Download driver binaries for Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+* 📗 [Learn how to write automated tests for Microsoft Edge using WebDriver](https://learn.microsoft.com/microsoft-edge/webdriver-chromium)
+* 💾 [Download driver binaries for Microsoft Edge](https://developer.microsoft.com/microsoft-edge/tools/webdriver/)
 
 ## Resources
 
@@ -29,6 +29,6 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
 trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
+[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
