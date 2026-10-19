@@ -11,7 +11,7 @@ jobs:
     permissions:
       issues: write    
     steps:
-      - uses: MicrosoftEdge/action-issue-to-workitem@main
+      - uses: MicrosoftEdge/action-issue-to-workitem@67b5ea438e4e45df824e94670af7db99bad80b4c
         env:
           ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
